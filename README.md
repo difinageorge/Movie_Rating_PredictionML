@@ -1,6 +1,6 @@
 # 🎬 Movie Rating Predictor using Machine Learning
 
-This project was completed as part of my **GenAI Internship** at **System Tron**. The objective of this task was to build and deploy a machine learning model that predicts the **IMDb rating** of a movie based on key attributes like **title, director, genre, and actors** using regression techniques.
+This project was completed as part of my **GenAI Internship** at **System Tron** (Week01) . The objective of this task was to build and deploy a machine learning model that predicts the **IMDb rating** of a movie based on key attributes like **title, director, genre, and actors** using regression techniques.
 
 ---
 
