@@ -4,6 +4,14 @@ This project was completed as part of my **GenAI Internship** at **System Tron**
 
 ---
 
+## 🚀 Live Demo
+
+You can check out the deployed Streamlit web app here:
+
+🔗 [Movie Rating Prediction App – Streamlit Live](https://movie-rating-prediction-ml.streamlit.app/)
+
+---
+
 ## 📌 Task Objective
 
 Develop and deploy a **regression-based ML model** that can intelligently estimate the IMDb rating of a movie given its metadata. The final deliverable includes a **Streamlit-powered web application** that lets users enter movie details and instantly view the predicted rating.
