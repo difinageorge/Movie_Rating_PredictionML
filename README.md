@@ -111,6 +111,6 @@ Key features used for prediction:
 
 ## 📬 Contact
 
-**Difina George**
-📧 [Gmail](difina.georgecs@gmail.com)
-📍 Kerala, India
+* **Difina George**
+* 📧 [Gmail](difina.georgecs@gmail.com)
+* 📍 Kerala, India
