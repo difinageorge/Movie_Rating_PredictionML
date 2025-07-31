@@ -83,7 +83,10 @@ Key features used for prediction:
 ## 📷 Screenshot
 
 > *Include screenshots of your Streamlit app here (optional)*
+- **Before**
 > ![App Screenshot](SS01.png)
+> 
+- **After**
 > ![App Screenshot](SS02.png)
 
 ---
