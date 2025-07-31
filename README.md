@@ -23,7 +23,7 @@ Develop and deploy a **regression-based ML model** that can intelligently estima
   * Train-Test Split
   * Evaluation Metrics (`MSE`, `R² Score`)
 * Jupyter Notebook
-* Pickle / JSON (for model and encoder saving)
+* Joblib (for model and encoder saving)
 
 ---
 
@@ -35,8 +35,7 @@ movie-rating-predictor/
 ├── MovieRatingPrediction.ipynb   # Jupyter Notebook for model training and evaluation
 ├── movie_dataset.csv             # Cleaned dataset of movies with metadata
 ├── movie_rating_model.pkl        # Trained ML model (Linear Regression)
-├── encoders.pkl                  # Saved LabelEncoders for categorical fields
-├── model_features.json           # Feature columns used in training
+├── encoders.pkl                  # Saved LabelEncoders for categorical fields 
 ├── app.py                        # Streamlit web app for real-time predictions
 ├── README.md                     # Project documentation
 ```
