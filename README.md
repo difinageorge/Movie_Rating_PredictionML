@@ -90,6 +90,19 @@ Key features used for prediction:
 > ![App Screenshot](SS02.png)
 
 ---
+## 🧪 Example Predictions
+
+| 🎬 **Film Name** | 🎥 **Director**   | 👥 **Actors**                                       | 🎭 **Genre** | ⭐ **Actual IMDb Rating** | 🔮 **Predicted Rating** |
+| ---------------- | ----------------- | --------------------------------------------------- | ------------ | ------------------------ | ----------------------- |
+| Inception        | Christopher Nolan | Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page | Sci-Fi       | 8.8                      | \~8.6                   |
+| The Room         | Tommy Wiseau      | Tommy Wiseau, Greg Sestero, Juliette Danielle       | Drama        | 3.7                      | \~3.9                   |
+| Titanic          | James Cameron     | Leonardo DiCaprio, Kate Winslet, Billy Zane         | Romance      | 7.8                      | \~7.6                   |
+| PK               | Rajkumar Hirani   | Aamir Khan, Anushka Sharma, Saurabh Shukla          | Comedy       | 8.1                      | \~8.0                   |
+| Baaghi 3         | Ahmed Khan        | Tiger Shroff, Riteish Deshmukh, Shraddha Kapoor     | Action       | 2.1                      | \~2.5                   |
+
+> ✅ You can test these inputs in the Streamlit app to compare predictions with real IMDb ratings!
+
+---
 
 ## 🔧 Future Scope
 
