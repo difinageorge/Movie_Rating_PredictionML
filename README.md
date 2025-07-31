@@ -105,7 +105,7 @@ Key features used for prediction:
 * **Internship Provider**: System Tron
 * **Week**: Week 01
 * **Task Name**: Movie Rating Prediction Model
-* **Environment**: Jupyter Notebook + Streamlit Web App (Local Deployment)
+* **Environment**: Jupyter Notebook + Streamlit Web App 
 
 ---
 
