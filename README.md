@@ -98,15 +98,23 @@ Key features used for prediction:
 > ![App Screenshot](SS02.png)
 
 ---
-## 🧪 Example Predictions
+### 🎬 Sample Indian Movies for Model Testing (Across Years)
 
-| 🎬 **Film Name** | 🎥 **Director**   | 👥 **Actors**                                       | 🎭 **Genre** | ⭐ **Actual IMDb Rating** | 🔮 **Predicted Rating** |
-| ---------------- | ----------------- | --------------------------------------------------- | ------------ | ------------------------ | ----------------------- |
-| Inception        | Christopher Nolan | Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page | Sci-Fi       | 8.8                      | \~8.6                   |
-| The Room         | Tommy Wiseau      | Tommy Wiseau, Greg Sestero, Juliette Danielle       | Drama        | 3.7                      | \~3.9                   |
-| Titanic          | James Cameron     | Leonardo DiCaprio, Kate Winslet, Billy Zane         | Romance      | 7.8                      | \~7.6                   |
-| PK               | Rajkumar Hirani   | Aamir Khan, Anushka Sharma, Saurabh Shukla          | Comedy       | 8.1                      | \~8.0                   |
-| Baaghi 3         | Ahmed Khan        | Tiger Shroff, Riteish Deshmukh, Shraddha Kapoor     | Action       | 2.1                      | \~2.5                   |
+These randomly selected Indian movies span different years and genres, suitable for testing the ML model:
+
+| 🎥 Movie Title         | 📅 Year | 🎭 Genre                 | ⭐ Rating | 🎬 Director              | 👤 Lead Actor         |
+|------------------------|--------|--------------------------|----------|--------------------------|------------------------|
+| Kabhi Haan Kabhi Naa   | 1994   | Comedy, Drama, Romance   | 7.8      | Kundan Shah              | Shah Rukh Khan         |
+| Lagaan                 | 2001   | Drama, Musical, Sport    | 8.1      | Ashutosh Gowariker       | Aamir Khan             |
+| Black Friday           | 2004   | Crime, Drama, History    | 8.4      | Anurag Kashyap           | Kay Kay Menon          |
+| Bhool Bhulaiyaa        | 2007   | Comedy, Horror, Mystery  | 7.4      | Priyadarshan             | Akshay Kumar           |
+| 3 Idiots               | 2009   | Comedy, Drama            | 8.4      | Rajkumar Hirani          | Aamir Khan             |
+| Barfi!                 | 2012   | Comedy, Drama, Romance   | 8.1      | Anurag Basu              | Ranbir Kapoor          |
+| Queen                  | 2014   | Adventure, Comedy, Drama | 8.2      | Vikas Bahl               | Kangana Ranaut         |
+| Andhadhun              | 2018   | Crime, Drama, Music      | 8.2      | Sriram Raghavan          | Ayushmann Khurrana     |
+| Shershaah              | 2021   | Action, Biography, Drama | 8.4      | Vishnuvardhan            | Sidharth Malhotra      |
+| Pathaan                | 2023   | Action, Adventure, Thriller | 6.9   | Siddharth Anand          | Shah Rukh Khan         |
+
 
 > ✅ You can test these inputs in the Streamlit app to compare predictions with real IMDb ratings!
 
